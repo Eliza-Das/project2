@@ -1,7 +1,7 @@
 # New project
 
 
-This project was created from local system
-created by Eliza das
+This project was created from local system .
+created by Eliza das .
 
 
